@@ -69,7 +69,7 @@
 		allow_login="true" 
 		size="xlarge">
 		</div>
-		<button type="submit" name="submit">Submit</button>
+		<button type="submit" onclick="window.confirmOptIn()"name="submit">Submit</button>
 
 </body>
 </html>
